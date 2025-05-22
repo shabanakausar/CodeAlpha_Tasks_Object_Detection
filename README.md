@@ -1,4 +1,4 @@
-# CodeAlpha_Tasks_Object_Detection
+#🎯 CodeAlpha_Tasks_Object_Detection
 Object Detection and Tracking  Develop a system capable of detecting and  tracking objects in real-time video streams. Use  deep learning models like YOLO (You Only Look  Once) for accurate object  detection and tracking.
 # Real-Time People Tracking with YOLO and DeepSORT
 
@@ -6,7 +6,7 @@ Object Detection and Tracking  Develop a system capable of detecting and  tracki
 
 A lightweight real-time people tracking system using YOLO for detection and DeepSORT for object tracking.
 
-## Features
+## 🚀  Features
 - Real-time tracking (30+ FPS on CPU)
 - Person detection with tracking IDs
 - Video input/output support
